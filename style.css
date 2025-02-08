@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body {
-  background:url("/image/background.gif");
+  background:url("image/background.gif");
   height:100%;
   width:100%;
   color: white;
